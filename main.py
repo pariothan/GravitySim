@@ -5,6 +5,7 @@ import numpy as np
 import time
 import sys
 #this is a test comment
+#this is a second test comment
 # Initialize Pygame
 pygame.init()
 
